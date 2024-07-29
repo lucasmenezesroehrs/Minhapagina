@@ -54,7 +54,7 @@ ul {
 
 /* Estilo dos itens da lista */
 ul li {
-    background: #3f2b2b; /* Define a cor de fundo dos itens da lista */
+    background: #52e09e; /* Define a cor de fundo dos itens da lista */
     border: 2px solid #3498db; /* Adiciona uma borda colorida ao redor dos itens */
     border-radius: 5px; /* Adiciona bordas arredondadas aos itens */
     margin: 0; /* Remove a margem vertical dos itens */
