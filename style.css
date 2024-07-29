@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif; /* Define a fonte padrão */
     margin: 0; /* Remove a margem padrão do navegador */
     padding: 0; /* Remove o preenchimento padrão do navegador */
-    background-color: #f4f4f4; /* Define a cor de fundo da página */
+    background-color: #ff0000; /* Define a cor de fundo da página */
 }
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #919191; /* Define a cor de fundo do cabeçalho */
+    background-color: #47b17f; /* Define a cor de fundo do cabeçalho */
     color: #c801ff; /* Define a cor do texto do cabeçalho */
     text-align: center; /* Centraliza o texto do cabeçalho */
     padding: 1em 0; /* Adiciona preenchimento vertical ao cabeçalho */
@@ -18,13 +18,13 @@ header {
 section {
     padding: 2em; /* Adiciona preenchimento interno às seções */
     margin: 1em 0; /* Adiciona margem vertical entre as seções */
-    background-color: #fff; /* Define a cor de fundo das seções */
+    background-color: #d12d2da9; /* Define a cor de fundo das seções */
     border-radius: 5px; /* Adiciona bordas arredondadas às seções */
 }
 
 /* Estilo dos títulos principais e secundários */
 h1, h2 {
-    color: #320101; /* Define a cor dos títulos */
+    color: #9c0bdf; /* Define a cor dos títulos */
     text-align: center; /* Centraliza os títulos na página */
 }
 
